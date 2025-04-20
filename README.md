@@ -1,4 +1,4 @@
-#Face Detection
+# Face Detection
 
 # Setup Instructions for Python Environment with Libraries
 
@@ -46,5 +46,4 @@ jupyter notebook
 
 This will open a new tab in your browser where you can start writing your Python code in notebooks.
 
-
-## P.S. Restart kernel in case of 'module not found' or 'no attribute' errors if all libraries are installed properly. Create necessary folders per your structure.
+P.S. Restart kernel in case of 'module not found' or 'no attribute' errors if all libraries are installed properly. Create necessary folders per your structure.
