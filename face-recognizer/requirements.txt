@@ -1,0 +1,8 @@
+opencv-python
+face-recognition
+numpy
+tensorflow
+mediapipe
+scikit-learn
+scipy
+setuptools<70
